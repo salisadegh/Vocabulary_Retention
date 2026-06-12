@@ -1,0 +1,7 @@
+source_rows_scanned=12854226
+rows_kept=1930889
+keep_rule=md5(user_id)%100<15
+columns=p_recall,timestamp,delta,user_id,learning_language,ui_language,lexeme_id,history_seen,history_correct,session_seen,session_correct
+duolingo_sample_part01.csv.gz	rows=700000	md5=a23a858025b740ad6f282b9695bf6149	size_mb=14.4
+duolingo_sample_part02.csv.gz	rows=700000	md5=7630e21e6843a75897a81d4aa4b4c1dd	size_mb=14.3
+duolingo_sample_part03.csv.gz	rows=530889	md5=ec96dc88c7d4505ba1c873b03c0d1471	size_mb=11.0

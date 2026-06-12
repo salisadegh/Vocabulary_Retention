@@ -1,0 +1,7 @@
+{
+  "unit": "user (matches Study 2)",
+  "design": "prospective: week-1 features -> week-2 mean recall",
+  "inclusion": ">=10 W1 traces and >=5 W2 traces",
+  "selection_caveat": "users active in both weeks (engagement-survival selection)",
+  "cv": "KFold(5) over users"
+}

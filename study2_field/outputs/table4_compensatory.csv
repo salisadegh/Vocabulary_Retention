@@ -1,0 +1,5 @@
+predictor,outcome,pearson_r,p
+TOTAL,Initial_score,0.084,0.3871
+MEM,Initial_score,-0.137,0.155
+META,Initial_score,0.068,0.4802
+COG,Initial_score,-0.011,0.9104

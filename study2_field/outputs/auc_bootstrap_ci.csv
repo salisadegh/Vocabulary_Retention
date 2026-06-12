@@ -1,0 +1,4 @@
+target,cv_auc,ci95_lo,ci95_hi
+Retention_90,0.469,0.358,0.584
+Retention_80,0.461,0.349,0.573
+Retention_70,0.461,0.335,0.586

@@ -1,0 +1,16 @@
+{
+  "cleaning": {
+    "n": 109,
+    "missing_gender": 10,
+    "missing_age": 11,
+    "retention_gt_100_n": 21,
+    "retention_max_pct": 176.9,
+    "baseline_ceiling_n_initial_eq_30": 16,
+    "sav_csv_discrepancy": "row index 85 (0-based), Retention_70: CSV=1 correct (ratio 105.9%), SAV=0 incorrect -> fix SAV"
+  },
+  "power": {
+    "min_detectable_r_n109": 0.266,
+    "min_detectable_r_n88": 0.295,
+    "min_detectable_r_n72": 0.325
+  }
+}

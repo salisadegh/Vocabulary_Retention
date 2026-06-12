@@ -1,0 +1,5 @@
+analysis,unit,n,r,ci95
+"S1 trace-level GBM (AUC .607, r-equivalent, approx.)",trace,"1,930,889",0.189,—(approx. conversion)
+"S1b person-level, practice-only (Ridge)",person,3957,0.195,"[0.165,0.225]"
+"S1b person-level, practice + W1 accuracy (Ridge)",person,3957,0.469,"[0.445,0.493]"
+"S2 self-report TOTAL vs retention (primary, capped)",person,109,-0.108,"[-0.29,0.082]"

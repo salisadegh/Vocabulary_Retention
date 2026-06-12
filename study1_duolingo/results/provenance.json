@@ -1,0 +1,16 @@
+{
+  "source": "Harvard Dataverse doi:10.7910/DVN/N8XJME",
+  "paper": "Settles & Meeder (2016), ACL, P16-1174",
+  "rows_used": 1930889,
+  "n_users": 17230,
+  "sample": "deterministic user-complete 15% (md5(user_id)%100<15), MD5-manifest verified",
+  "split": "GroupKFold by user_id (no user leakage)",
+  "models": [
+    "global-mean baseline",
+    "HLR (ACL16 reimpl.)",
+    "HistGradientBoosting"
+  ],
+  "hlr_tuning": "nested user-level inner holdout (lr in {.001,.003,.01}, epochs in {3,8})",
+  "sensitivity": "lag >= 5 min re-evaluation; calibration ECE",
+  "ece_gbm": 0.00179920787923038
+}

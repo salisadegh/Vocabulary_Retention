@@ -1,0 +1,4 @@
+target,auc_logreg,auc_rf,best_auc,perm_null_mean,perm_null_p95,p_permutation
+Retention_90,0.476,0.517,0.517,0.499,0.634,0.438
+Retention_80,0.467,0.413,0.467,0.5,0.617,0.692
+Retention_70,0.459,0.493,0.493,0.493,0.625,0.522

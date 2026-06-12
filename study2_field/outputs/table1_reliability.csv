@@ -1,0 +1,12 @@
+scale,k_items,alpha,ci95_lo,ci95_hi,inferential_use
+DET,5,0.183,-0.155,0.393,exploratory
+COG,6,0.565,0.397,0.673,exploratory
+MEM,6,0.562,0.404,0.677,exploratory
+SOC,3,0.581,0.417,0.691,exploratory
+META,5,0.518,0.313,0.635,exploratory
+SKILLS,4,0.271,0.014,0.441,exploratory
+TOOLS,2,0.288,-0.164,0.555,exploratory
+CONDITION,5,-0.037,-0.679,0.348,excluded
+ENVIRONMENT,6,0.711,0.536,0.803,exploratory
+TIME,3,0.537,0.342,0.678,exploratory
+TOTAL(45),45,0.869,0.815,0.901,primary
